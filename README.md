@@ -1,6 +1,7 @@
 ⚡ Lily — Your Automated Slack Assistant
 
 Lily is a Slack bot designed to make everyday interactions more convenient and engaging through a collection of useful commands, from checking the weather and looking up word definitions to generating random activities and sharing fun facts.
+
 <img width="688" height="451" alt="Screenshot 2026-11-18 125317" src="https://github.com/user-attachments/assets/9cf0a95d-9d17-446d-960b-32556cf562b2" />
 
 💬 Try Lily
